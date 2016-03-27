@@ -1,0 +1,107 @@
+  
+.main {
+    height:1000px;
+	background-color :black;
+	}
+	
+	
+.favorites_main{
+    height:700px;
+	background-color :black;
+	}
+	
+	
+.videos_main{
+	 background-size: 2000px 1250px;
+	 height : 1250px;
+	 background-image:url("bck_image.jpg");
+	 background-repeat: no-repeat;	
+	}
+	 
+.main {
+	padding-top :100px;
+    padding-bottom : 200px;
+    padding-left:10px;
+    padding-right:10px;
+	font-size :20px;
+    font-weight : bold;
+    font-family :'Shift',sans-serif;
+	color:#fff;
+} 
+
+.videos_main h2{
+	
+			color :#fff;
+	
+}
+
+
+.thumbnail {
+  position: relative;
+  width: auto;
+  height: auto;
+  overflow: hidden;
+}
+
+.dropdown_aboutme {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content_aboutme {
+    display: none;
+    position: absolute;
+    min-width: 200px;
+}
+
+.dropdown_aboutme:hover .dropdown-content_aboutme{
+    display: block;
+}
+
+
+
+.dropdownmusic {
+    position: relative;
+    display: inline-block;
+}
+  
+.dropdown-contentmusic {
+    display: none;
+    position: absolute;
+    min-width: 200px;
+}
+
+.dropdownmusic:hover  .dropdown-contentmusic{
+    display: block;
+}
+
+.dropdownresearch {
+    position: relative;
+    display: inline-block;
+}
+  
+.dropdown-contentresearch {
+    display: none;
+    position: absolute;
+    min-width: 200px;
+}
+
+.dropdownresearch:hover  .dropdown-contentresearch{
+    display: block;
+}
+
+.videos_main .video1{
+padding-top :100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
