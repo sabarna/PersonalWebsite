@@ -12,8 +12,7 @@
 	
 	
 .videos_main{
-	 background-size: 2000px 1250px;
-	 height : 1250px;
+	    height:700px;
 	 background-image:url("bck_image.jpg");
 	 background-repeat: no-repeat;	
 	}
